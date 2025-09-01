@@ -4,8 +4,8 @@
   "description": "InvestaCore Architecture Inception Canvas",
   "main": "index.html",
   "scripts": {
+    "build": "mkdir -p public && cp index.html public/",
     "dev": "serve .",
-    "build": "echo 'Static site, no build needed'",
     "start": "serve ."
   },
   "dependencies": {},
