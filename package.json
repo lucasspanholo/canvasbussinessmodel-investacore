@@ -1,0 +1,15 @@
+{
+  "name": "investacore-architecture-canvas",
+  "version": "1.0.0",
+  "description": "InvestaCore Architecture Inception Canvas",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site, no build needed'",
+    "start": "serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
